@@ -4,6 +4,7 @@
 cdktf.out
 cdktf.log
 *terraform.*.tfstate*
+.gen
 
 # Created by https://www.gitignore.io/api/csharp
 

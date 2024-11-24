@@ -3,7 +3,7 @@
   "app": "dotnet run -p MyTerraformStack.csproj",
   "projectId": "1891cd96-e78c-4b81-9660-94d54c83eeda",
   "sendCrashReports": "false",
-  "terraformProviders": [],
+  "terraformProviders": ["aws"],
   "terraformModules": [],
   "context": {
 
